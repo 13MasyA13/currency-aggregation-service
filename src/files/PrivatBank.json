@@ -1,0 +1,22 @@
+{
+  "currency-0":{
+    "currency-code": "USD",
+    "buy": 27.7,
+    "sell": 28.3
+  },
+  "currency-1":{
+    "currency-code": "GRB",
+    "buy": 37.9,
+    "sell": 38.9
+  },
+  "currency-2":{
+    "currency-code": "RUB",
+    "buy": 0.40,
+    "sell": 0.45
+  },
+  "currency-3":{
+    "currency-code": "PLN",
+    "buy": 7.07,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "currency-0":{
+    "currency-code": "USD",
+    "buy": 27.3,
+    "sell": 28.9
+  },
+
+  "currency-1":{
+    "currency-code": "EUR",
+    "buy": 31.9,
+    "sell": 0.0
+  },
+
+  "currency-2":{
+    "currency-code": "RUB",
+    "buy": 0.0,
+    "sell": 0.45
+  }
+}

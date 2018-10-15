@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<banks xmlns="http://www.w3schools.com/Banks"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.w3schools.com/Banks bank-schema.xsd">
+
+    <currency>
+        <currencyCode>USD</currencyCode>
+        <buy>27.9</buy>
+        <sell>28.3</sell>
+    </currency>
+
+    <currency>
+        <currencyCode>EUR</currencyCode>
+        <buy>31.9</buy>
+        <sell>32.5</sell>
+    </currency>
+
+</banks>

@@ -1,0 +1,7 @@
+ua.holyk.springboot.currencyaggregationservice
+ua.holyk.springboot.currencyaggregationservice.controllers
+ua.holyk.springboot.currencyaggregationservice.entities
+ua.holyk.springboot.currencyaggregationservice.file_filters
+ua.holyk.springboot.currencyaggregationservice.parsers
+ua.holyk.springboot.currencyaggregationservice.sorts
+ua.holyk.springboot.currencyaggregationservice.tools
